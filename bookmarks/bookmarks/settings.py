@@ -57,6 +57,9 @@ MIDDLEWARE = [
 
 ROOT_URLCONF = 'bookmarks.urls'
 
+MEDIA_URL = 'media/'
+MEDIA_ROOT = BASE_DIR / 'media'
+
 # enable Django to send emails, this will write emails to the console.
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 

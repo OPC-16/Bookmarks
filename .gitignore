@@ -3,5 +3,6 @@ env/
 bookmarks/account/__pycache__/
 bookmarks/account/migrations/__pycache__/
 bookmarks/bookmarks/__pycache__/
+bookmarks/media/
 
 db.sqlite3
