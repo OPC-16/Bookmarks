@@ -5,4 +5,8 @@ bookmarks/account/migrations/__pycache__/
 bookmarks/bookmarks/__pycache__/
 bookmarks/media/
 
+bookmarks/.env
+bookmarks/cert.crt
+bookmarks/cert.key
+
 db.sqlite3
