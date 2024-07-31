@@ -5,6 +5,9 @@ bookmarks/account/migrations/__pycache__/
 bookmarks/bookmarks/__pycache__/
 bookmarks/media/
 
+bookmarks/images/__pycache__/
+bookmarks/images/migrations/__pycache__/
+
 bookmarks/.env
 bookmarks/cert.crt
 bookmarks/cert.key
